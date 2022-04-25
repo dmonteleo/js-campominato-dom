@@ -1,0 +1,15 @@
+/* .clicked {
+  background-color: green;
+} */
+
+.square.clicked span {
+  display: block;
+}
+
+.square.clicked.even {
+  background-color: green;
+}
+
+.square.clicked.odd {
+  background-color: red;
+}
